@@ -1,18 +1,9 @@
 """Public interface for oro-mcp-base.
 
-Define the abstract base classes that form this brick's public contract.
-Implementations live in their own modules.
-
-Example:
-
-    from abc import ABC, abstractmethod
-
-    class Store(ABC):
-        '''Data storage contract.'''
-
-        @abstractmethod
-        async def get(self, key: str) -> dict | None: ...
-
-        @abstractmethod
-        async def put(self, key: str, value: dict) -> None: ...
+Re-exports the abstract base class that forms this brick's public contract.
+The MCPServerBase ABC defines the interface that all MCP servers must implement.
 """
+
+from .server import MCPServerBase
+
+__all__ = ["MCPServerBase"]
