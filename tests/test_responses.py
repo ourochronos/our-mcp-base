@@ -1,8 +1,8 @@
-"""Tests for oro_mcp_base.responses module."""
+"""Tests for our_mcp_base.responses module."""
 
 from __future__ import annotations
 
-from oro_mcp_base.responses import error_response, not_found_response, success_response
+from our_mcp_base.responses import error_response, not_found_response, success_response
 
 
 class TestSuccessResponse:

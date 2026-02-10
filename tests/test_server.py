@@ -1,4 +1,4 @@
-"""Tests for oro_mcp_base.server module."""
+"""Tests for our_mcp_base.server module."""
 
 from __future__ import annotations
 
@@ -9,7 +9,7 @@ from unittest.mock import patch
 import pytest
 from mcp.types import TextContent, Tool
 
-from oro_mcp_base.server import MCPServerBase
+from our_mcp_base.server import MCPServerBase
 
 
 class TestMCPServerBaseAbstract:

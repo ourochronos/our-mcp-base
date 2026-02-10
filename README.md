@@ -1,4 +1,4 @@
-# oro-mcp-base
+# our-mcp-base
 
 MCP server base framework for the ourochronos ecosystem
 
@@ -9,13 +9,13 @@ _Brief description of what this brick does and why it exists._
 ## Install
 
 ```bash
-pip install oro-mcp-base
+pip install our-mcp-base
 ```
 
 ## Usage
 
 ```python
-from oro_mcp_base import ...
+from our_mcp_base import ...
 ```
 
 ## API

@@ -1,4 +1,4 @@
-"""Shared test fixtures for oro-mcp-base."""
+"""Shared test fixtures for our-mcp-base."""
 
 import pytest
 

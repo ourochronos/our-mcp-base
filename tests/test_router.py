@@ -1,10 +1,10 @@
-"""Tests for oro_mcp_base.router module."""
+"""Tests for our_mcp_base.router module."""
 
 from __future__ import annotations
 
 from typing import Any
 
-from oro_mcp_base.router import ToolRouter
+from our_mcp_base.router import ToolRouter
 
 
 class TestToolRouter:
