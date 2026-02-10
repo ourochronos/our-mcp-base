@@ -1,6 +1,6 @@
 # oro-mcp-base
 
-MCP server base framework for the orobobos ecosystem
+MCP server base framework for the ourochronos ecosystem
 
 ## Overview
 

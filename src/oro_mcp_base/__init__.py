@@ -1,4 +1,4 @@
-"""oro-mcp-base -- MCP server base framework for the orobobos ecosystem.
+"""oro-mcp-base -- MCP server base framework for the ourochronos ecosystem.
 
 Provides MCPServerBase, ToolRouter, and response helpers for building
 MCP servers with consistent patterns.
